@@ -1,0 +1,1 @@
+export { default as StereotechBrandbook } from './StereotechBrandbook.vue'
