@@ -5,11 +5,12 @@
         <h3 class="text-h2">Базовые цвета</h3>
       </v-col>
       <v-col cols="12" sm="6" md="3">
-        <ColorCard :color="primary" name="Основной цвет" />
+        <ColorCard :color="accent" name="Цвет текста" />
       </v-col>
       <v-col cols="12" sm="6" md="3">
-        <ColorCard :color="accent" name="Акцент" />
+        <ColorCard :color="primary" name="Акцент" />
       </v-col>
+
       <v-col cols="12" sm="6" md="3">
         <ColorCard :color="additional" name="Дополнительный" />
       </v-col>

@@ -35,19 +35,19 @@ export default class LogosTab extends Vue {
     },
     {
       path: 'logo/round_logo/round',
-      title: 'Круглый логотип без текста'
+      title: 'Логотип'
     },
-    {
-      path: 'logo/vert_logo/vert',
-      title: 'Вертикальный вариант'
-    },
-    {
-      path: 'logo/text_logo/text',
-      title: 'Только текст'
-    },
+    //{
+    //  path: 'logo/vert_logo/vert',
+    //  title: 'Вертикальный вариант'
+    //},
+    //{
+    //  path: 'logo/text_logo/text',
+    //  title: 'Только текст'
+    //},
     {
       path: 'logo/tm_logo/tm',
-      title: 'Без подписи'
+      title: 'Товарный знак'
     },
     'Для темного фона',
     {
@@ -57,22 +57,22 @@ export default class LogosTab extends Vue {
     },
     {
       path: 'logo/round_logo_dark/round',
-      title: 'Круглый логотип без текста',
+      title: 'Логотип',
       dark: true
     },
-    {
-      path: 'logo/vert_logo_dark/vert',
-      title: 'Вертикальный вариант',
-      dark: true
-    },
-    {
-      path: 'logo/text_logo_dark/text',
-      title: 'Только текст',
-      dark: true
-    },
+    //{
+    //  path: 'logo/vert_logo_dark/vert',
+    //  title: 'Вертикальный вариант',
+    //  dark: true
+    //},
+    //{
+    //  path: 'logo/text_logo_dark/text',
+    //  title: 'Только текст',
+    //  dark: true
+    //},
     {
       path: 'logo/tm_logo_dark/tm',
-      title: 'Без подписи',
+      title: 'ТОварный знак',
       dark: true
     },
     'Логотипы приложений',
