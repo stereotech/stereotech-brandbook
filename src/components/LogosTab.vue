@@ -72,7 +72,7 @@ export default class LogosTab extends Vue {
     //},
     {
       path: 'logo/tm_logo_dark/tm',
-      title: 'ТОварный знак',
+      title: 'Товарный знак',
       dark: true
     },
     'Логотипы приложений',
